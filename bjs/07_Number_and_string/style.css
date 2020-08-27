@@ -7,3 +7,9 @@
     text-align: end;
     font-size: x-large;
 }
+
+.interface {
+    border: solid 2px blue;
+    border-radius: 10px;
+    color: grey;
+}
