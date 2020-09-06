@@ -2,3 +2,11 @@
     height: 100vh;
     font-family: 'Open Sans', monospace;
 }
+
+body.redTheme {
+    background-color: red;
+}
+
+label.card-footer {
+    margin-bottom: 0;
+}
