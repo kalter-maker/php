@@ -1,0 +1,11 @@
+body {
+    background-image: url(numbersImage.jpg);
+    background-repeat: repeat-y;
+    background-size: cover;
+    color: red;
+}
+
+.card,
+.text-center {
+    background-color: blue;
+}
